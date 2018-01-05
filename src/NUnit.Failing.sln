@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Failing", "NUnit.Failing\NUnit.Failing.csproj", "{841FC4AC-437D-4F05-943F-C0C41285FEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Failing.Tests.Unit", "NUnit.Failing.Tests.Unit\NUnit.Failing.Tests.Unit.csproj", "{A7214B02-8E00-4691-9387-5A209382AB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841FC4AC-437D-4F05-943F-C0C41285FEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841FC4AC-437D-4F05-943F-C0C41285FEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841FC4AC-437D-4F05-943F-C0C41285FEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841FC4AC-437D-4F05-943F-C0C41285FEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7214B02-8E00-4691-9387-5A209382AB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7214B02-8E00-4691-9387-5A209382AB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7214B02-8E00-4691-9387-5A209382AB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7214B02-8E00-4691-9387-5A209382AB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DEC5EC-8F09-439A-B1EA-2E050036E0C8}
+	EndGlobalSection
+EndGlobal
