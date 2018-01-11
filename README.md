@@ -7,4 +7,4 @@ Simple project illustrating a situation where NUnit tests run in VS2017, but whe
 3. Watch both tests pass
 4. Open a powershell instance and navigate to project root
 5. run _build.cmd_
-6. Watch it failing with 1 of 2 tests
+6. Watch it fail with 1 of 2 tests
