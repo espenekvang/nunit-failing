@@ -71,7 +71,7 @@ Target "AssemblyInfo" <| fun _ ->
         {
             p with
                 AssemblyVersion = version
-                AssemblyCompany = "If Skadeforsikring"
+                AssemblyCompany = "The company"
                 AssemblyCopyright = System.DateTime.Now.ToString("yyyy")
         })
 
